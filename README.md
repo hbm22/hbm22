@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Harish BM
-- 👀 I’m interested in Building Scalable Software Applications.
-- 🌱 I’m currently learning System Design, Cloud Native Architecture, Kubernetes.
-- 💞️ I’m looking to collaborate on Software Design
-- 📫 Reach me @ harish.bm.22@gmail.com
+I am a CS engineer passionate about creating quality software and currently working with Nokia as a Sr. Technical Specialist with the WSRC team.
+
+Throughout my career, I have worked on a variety of customer requirements and implemented them with quality. I have also optimized a lot of the workflows throughout my career.
+
+I hold a Bachelors's degree in CS from MSRIT-Bangalore.
 
 <!---
 hbm22/hbm22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
